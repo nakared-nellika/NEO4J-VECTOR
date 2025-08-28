@@ -1,0 +1,1 @@
+Apollo project kickoff at ACME in 2024. Team: Alice (PM), Bob (Data), Carol (Engineer). Goals: robust GraphRAG with Neo4j.
